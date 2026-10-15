@@ -1,6 +1,6 @@
 import './style.css';
 
-// import './bases/01-const-let';
+import './bases/01-const-let';
 // import './bases/02-template-string';
 // import './bases/03-object-literal';
 // import './bases/04-arrays';
@@ -10,7 +10,7 @@ import './style.css';
 // import './bases/08-imp-exp';
 // import './bases/09-promises';
 // import './bases/10-fetch-api';
-import './bases/11-async-await';
+// import './bases/11-async-await';
 
 // import { getHeroesByOwner } from './bases/08-imp-exp';
 // import { Owner } from './data/heroes.data';
